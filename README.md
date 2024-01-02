@@ -1,5 +1,5 @@
-# Hello!
-My name is Keon Jukes and I am a software engineer currently focusing on frontend web development. While much of my experience comes from using React, I've started using Vue a lot more lately.
+# Hello! 🤖
+My name is Keon Jukes and I am a software engineer currently focusing on frontend web development. I currently work for Dolby.io where I get a chance to work on many multimedia projects.
 
 <!---
 KeonJukes/KeonJukes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
