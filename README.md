@@ -1,7 +1,7 @@
 # Hello! 🤖
 My name is Keon Jukes and I am a software engineer currently focusing on frontend web development. I work for Dolby.io where I get a chance to work on many multimedia projects.
 
-# 🦾 Tools I have learned</h2>
+# 🦾 Tools I have learned 🦿/h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
