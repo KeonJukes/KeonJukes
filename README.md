@@ -13,6 +13,10 @@ My name is Keon Jukes and I am a software engineer currently focusing on fronten
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialui" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>               </p>
 
+# Where you can find me 📍
+![KeonCodes (1)](https://github.com/KeonJukes/KeonJukes/assets/135393395/27aa9107-91f4-4e36-aa1b-981684179ebd)
+
+
 <!---
 KeonJukes/KeonJukes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
