@@ -1,5 +1,5 @@
 # Hello! 🤖
-My name is Keon Jukes and I am a software engineer currently focusing on frontend web development. I work at Dolby.io where I get a chance to build multimedia applications alongside other great software engineers.
+My name is Keon Jukes and I am a software engineer currently focusing on frontend web development.
 
 # 🦾 Some tools I have learned 🦿
 <p align="left">
