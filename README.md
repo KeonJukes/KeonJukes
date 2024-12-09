@@ -1,5 +1,5 @@
 # Hello! 🤖
-My name is Keon Jukes and I am a software engineer currently focusing on frontend web development.
+My name is Keon Jukes and I am a software engineer currently focusing on frontend web development. 
 
 # 🦾 Some tools I have learned 🦿
 <p align="left">
