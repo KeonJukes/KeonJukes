@@ -1,6 +1,6 @@
 # Hello!
 My name is Keon Jukes and I am a software engineer with experience building fullstack applications.
-[](https://github.com/KeonJukes/KeonJukes/blob/main/KeonCodes-ezgif.com-optimize.gif)
+![til](https://github.com/KeonJukes/KeonJukes/blob/main/KeonCodes-ezgif.com-optimize.gif)
 # Some tools I have learned 🦾 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
