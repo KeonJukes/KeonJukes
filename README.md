@@ -18,8 +18,6 @@ I am currently open to work on an ambitious project with a great team!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialui" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>    </p> 
 
-![Snake animation](https://github.com/KeonJukes/KeonJukes/blob/output/github-contribution-grid-snake.svg)
-
 <!---
 KeonJukes/KeonJukes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
