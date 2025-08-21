@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=39FF14&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
 
-My name is Keon and I graduated from Fullstack Academy's software immersive program where I learned fullstack web development back in 2021. Since then, I have worked on a variety of different projects where I contributed primarily to frontend development. I was last employed at Dolby Laboratories, where I worked on numerous different software projects using a plethora of different tools. 
+My name is Keon and I graduated from Fullstack Academy's software immersive program where I learned fullstack web development back in 2021. Since then I have worked on a variety of different projects, but I contributed primarily to frontend development professionally while working as a software engineer at Dolby Laboratories.
 
-I am currently open to work and look forward to joining a great team to work on an ambitious project!
+I am currently open to work on an ambitious project with a great team!
 
 # Some tools I have learned 🦾 
 <p align="left">
