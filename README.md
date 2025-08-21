@@ -1,6 +1,4 @@
 # Welcome to my GitHub profile! 
-
-## About me
 My name is Keon and I have experience as a software engineer working on a plethora of different projects, mainly frontend professionally.
 
 # Some tools I have learned 🦾 
