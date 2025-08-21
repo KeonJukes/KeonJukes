@@ -1,5 +1,5 @@
 # Welcome to my GitHub profile! 
-My name is Keon and I have experience as a software engineer working on a plethora of different projects, mainly frontend professionally.
+My name is Keon and I have professional experience working mostly on frontend development projects.
 
 # Some tools I have learned 🦾 
 <p align="left">
