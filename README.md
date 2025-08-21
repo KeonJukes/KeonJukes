@@ -1,5 +1,7 @@
 # Welcome to my GitHub profile! 
-My name is Keon and I graduated from Fullstack Academy's software immersive program where I learned fullstack web development back in 2021. Since then, I have worked on a variety of different projects where I contributed primarily to frontend development. I was lat employed at Dolby Laboratories where I worked on numerous different software projects using a plethora of different tools. 
+My name is Keon and I graduated from Fullstack Academy's software immersive program where I learned fullstack web development back in 2021. Since then, I have worked on a variety of different projects where I contributed primarily to frontend development. I was last employed at Dolby Laboratories, where I worked on numerous different software projects using a plethora of different tools. 
+
+I am currently open to work and look forward to joining a great team to work on an ambitious project!
 
 # Some tools I have learned 🦾 
 <p align="left">
