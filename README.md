@@ -59,24 +59,24 @@ technical_background:
   React
 </p>
 <p>
-   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-    Git
+   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /> <br/>
+   Git
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-   GitLab
+  <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" /> <br/>
+  GitLab
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-   Linux
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /> <br/>
+  Linux
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-   Postman
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /> <br/>
+  Postman
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-   Postgres
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" /> <br/>
+  Postgres
 </p>
 
 <p align="center">
