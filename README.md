@@ -73,7 +73,7 @@ technical_background:
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="GitLab" /> <br/>
-      GitLab
+      VScode
     </td>
   </tr>
   <tr>
