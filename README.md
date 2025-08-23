@@ -1,7 +1,3 @@
-<p align="center">
-  <img src=https://capsule-render.vercel.app/api?type=venom&height=300&color=39FF14&text=💻%20&fontAlign=50&animation=fadeIn&reversal=false />
-</p>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=39FF14&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
 
 My name is Keon and I graduated from Fullstack Academy's software immersive program where I learned fullstack web development back in 2021. Since then I have worked on a variety of different projects, but I contributed primarily to frontend development professionally while working as a software engineer at Dolby Laboratories.
