@@ -60,23 +60,23 @@ technical_background:
 </p>
 <p>
    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-   Git
+    Git
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-  GitLab
+   GitLab
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-  Linux
+   Linux
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-  Postman
+   Postman
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-  Postgres
+   Postgres
 </p>
 
 <p align="center">
