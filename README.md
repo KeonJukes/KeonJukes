@@ -45,47 +45,57 @@ technical_background:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/> 
 </p> 
 -->
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> <br/>
+      JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> <br/>
+      TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> <br/>
+      React
+    </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Git" /> <br/>
+       Vue
+    </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /> <br/>
+       Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" /> <br/>
+      GitLab
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /> <br/>
+      Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /> <br/>
+      Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" /> <br/>
+      Postgres
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="jquery" /> <br/>
+      Postgres
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="jquery" /> <br/>
+      Postgres
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> <br/>
-  JavaScript
-</p>
-<p>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> <br/>
-  TypeScript
-</p>
-<p>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> <br/>
-  React
-</p>
-<p>
-   <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Git" /> <br/>
-   Vue
-</p>
-<p>
-   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /> <br/>
-   Git
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" /> <br/>
-  GitLab
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /> <br/>
-  Linux
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /> <br/>
-  Postman
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" /> <br/>
-  Postgres
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="75" height="75" />
-</p>
 <!---
 KeonJukes/KeonJukes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
