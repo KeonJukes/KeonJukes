@@ -6,7 +6,29 @@
 
 My name is Keon and I graduated from Fullstack Academy's software immersive program where I learned fullstack web development back in 2021. Since then I have worked on a variety of different projects, but I contributed primarily to frontend development professionally while working as a software engineer at Dolby Laboratories.
 
-I am currently open to work on an ambitious project with a great team!
+```yaml
+name: Keon Jukes
+located_in: Bay Area
+Skill: Full Stack Development
+education:
+  [
+    "Completed Fullstack Academy Software Immersive program",
+    "Bachelor's in Marketing",
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+    "UI/UX",
+  ]
+technical_background:
+  [
+    "Software Engineer"
+     "Frontend Developer"
+      "UI/UX Designer"
+  ]
+  
+```
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=39FF14&width=435&lines=Some+tools+I+have+used%3A)](https://git.io/typing-svg)
