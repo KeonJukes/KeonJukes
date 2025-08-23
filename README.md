@@ -87,11 +87,11 @@ technical_background:
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="jquery" /> <br/>
-      Postgres
+      Adobe Photoshop
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="jquery" /> <br/>
-      Postgres
+      Adobe Illustrator
     </td>
   </tr>
 </table>
