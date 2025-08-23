@@ -31,7 +31,7 @@ technical_background:
 ```
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=39FF14&width=435&lines=Some+tools+I+have+used%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=39FF14&width=435&lines=Some+tools+I+use%3A)](https://git.io/typing-svg)
 <!--
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
