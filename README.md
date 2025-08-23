@@ -83,7 +83,7 @@ technical_background:
 [JQuery-url]: https://jquery.com 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="75" height="75" />
 </p>
 <!---
 KeonJukes/KeonJukes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
