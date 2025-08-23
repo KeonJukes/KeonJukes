@@ -59,6 +59,10 @@ technical_background:
   React
 </p>
 <p>
+   <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Git" /> <br/>
+   Vue
+</p>
+<p>
    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /> <br/>
    Git
 </p>
