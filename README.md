@@ -116,7 +116,7 @@ technical_background:
       Material UI
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ms" width="48" height="48" alt="jquery" /> <br/>
+      <img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="jquery" /> <br/>
       Markdown
     </td>
     <td align="center" width="96">
