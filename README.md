@@ -47,15 +47,15 @@ technical_background:
 -->
 
 <p>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> <br/>
   JavaScript
 </p>
 <p>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> <br/>
   TypeScript
 </p>
 <p>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> <br/>
   React
 </p>
 <p>
