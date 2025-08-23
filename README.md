@@ -46,14 +46,11 @@ technical_background:
 </p> 
 -->
 
-<p> align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-  <br>Javascript
-</p>
-<p> align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/typescript-icon.svg" alt="icon" width="65" height="65" />
-  <br>Javascript
-</p>
+
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="75" height="75" />
