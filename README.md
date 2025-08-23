@@ -58,7 +58,21 @@ technical_background:
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
   React
 </p>
-
+<p>
+   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="75" height="75" />
