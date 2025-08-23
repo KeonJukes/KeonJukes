@@ -95,10 +95,6 @@ technical_background:
       <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="jquery" /> <br/>
       Photoshop
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="jquery" /> <br/>
-      Illustrator
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
