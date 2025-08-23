@@ -58,7 +58,7 @@ technical_background:
       React
     </td>
     <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Git" /> <br/>
+       <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /> <br/>
        Vue
     </td>
     <td align="center" width="96">
@@ -70,13 +70,13 @@ technical_background:
       GitLab
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="GitLab" /> <br/>
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" /> <br/>
       VS Code
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Linux" /> <br/>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" /> <br/>
       Node.js
     </td>
     <td align="center" width="96">
@@ -88,37 +88,37 @@ technical_background:
       Postman
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" /> <br/>
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" /> <br/>
       Postgres
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="jquery" /> <br/>
+      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" /> <br/>
       Photoshop
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="jquery" /> <br/>
+      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" /> <br/>
       Illustrator
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="jquery" /> <br/>
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /> <br/>
       HTML
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="jquery" /> <br/>
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /> <br/>
       CSS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="jquery" /> <br/>
+      <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Materialui" /> <br/>
       Material UI
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="jquery" /> <br/>
+      <img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="Markdown" /> <br/>
       Markdown
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="jquery" /> <br/>
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" /> <br/>
       Supabase
     </td>
   </tr>
