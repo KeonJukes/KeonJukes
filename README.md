@@ -102,6 +102,28 @@ technical_background:
       Illustrator
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="jquery" /> <br/>
+      HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="jquery" /> <br/>
+      CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="jquery" /> <br/>
+      Material UI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ms" width="48" height="48" alt="jquery" /> <br/>
+      Markdown
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="jquery" /> <br/>
+      Supabase
+    </td>
+  </tr>
 </table>
 
 <!---
