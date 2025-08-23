@@ -74,6 +74,10 @@ technical_background:
   </tr>
   <tr>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Linux" /> <br/>
+      Node.js
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /> <br/>
       Linux
     </td>
