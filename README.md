@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://capsule-render.vercel.app/api?type=venom&height=300&color=39FF14&text=K%20J&fontAlign=50&animation=fadeIn />
+  <img src=https://capsule-render.vercel.app/api?type=venom&height=300&color=39FF14&text=K%20J&fontAlign=50&animation=fadeIn](https://capsule-render.vercel.app/api?type=venom&height=300&color=39FF14&text=THINK%20&fontAlign=50&animation=fadeIn />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=39FF14&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
@@ -24,8 +24,8 @@ fields_of_interests:
 technical_background:
   [
     "Software Engineer"
-     "Frontend Developer"
-      "UI/UX Designer"
+    "Frontend Developer"
+    "UI/UX Designer"
   ]
   
 ```
