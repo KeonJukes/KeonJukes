@@ -20,13 +20,12 @@ fields_of_interests:
     "UI/UX Design",
     "IoT",
     "Biotechnology",
-    "Virtial Reality"
+    "Virtual Reality"
   ]
 technical_background:
   [
-    "Software Engineer"
+    "Software Engineer",
     "Frontend Developer"
-    "UI/UX Designer"
   ]
   
 ```
