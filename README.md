@@ -17,7 +17,9 @@ education:
 fields_of_interests:
   [
     "Web Development",
-    "UI/UX",
+    "UI/UX Design",
+    "IoT",
+    "Biotechnology"
   ]
 technical_background:
   [
