@@ -19,7 +19,8 @@ fields_of_interests:
     "Web Development",
     "UI/UX Design",
     "IoT",
-    "Biotechnology"
+    "Biotechnology",
+    "Virtial Reality"
   ]
 technical_background:
   [
