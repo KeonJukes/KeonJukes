@@ -20,7 +20,8 @@ fields_of_interests:
     "UI/UX Design",
     "IoT",
     "Biotechnology",
-    "Virtual Reality"
+    "Virtual Reality",
+    "Climate Technology"
   ]
 technical_background:
   [
