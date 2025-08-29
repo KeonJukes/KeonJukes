@@ -126,7 +126,7 @@ technical_background:
   </tr>
 </table>
 
-[](the-future.gif)
+![](**the-future.gif**Matrix_Transformation_Bits_to_Human-ezgif.com-video-to-gif-converter.gif)
 <!---
 KeonJukes/KeonJukes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
