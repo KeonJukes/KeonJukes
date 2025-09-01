@@ -19,8 +19,7 @@ fields_of_interests:
     "Web Development",
     "UI/UX Design",
     "IoT",
-    "Biotechnology (CRISPR)",
-    "Virtual Reality"
+    "Virtual Reality",
   ]
 technical_background:
   [
