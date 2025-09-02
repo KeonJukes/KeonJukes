@@ -18,8 +18,9 @@ fields_of_interests:
   [
     "Web Development",
     "UI/UX Design",
-    "IoT",
-    "Virtual Reality",
+    "Internet of Things (IoT)",
+    "Live Streaming",
+    "Artificial General Intelligence (AGI)"
   ]
 technical_background:
   [
