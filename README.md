@@ -20,7 +20,7 @@ fields_of_interests:
     "UI/UX Design",
     "Internet of Things (IoT)",
     "Live Streaming",
-    "Artificial General Intelligence (AGI)"
+    "Artificial Intelligence"
   ]
 technical_background:
   [
