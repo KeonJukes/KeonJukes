@@ -19,8 +19,7 @@ fields_of_interests:
     "Web Development",
     "UI/UX Design",
     "Internet of Things (IoT)",
-    "Live Streaming",
-    "Biotechnology (CRISPR)"
+    "Live Streaming"
   ]
 technical_background:
   [
