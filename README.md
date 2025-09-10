@@ -20,7 +20,8 @@ fields_of_interests:
     "UI/UX Design",
     "Internet of Things (IoT)",
     "Live Streaming",
-    "Maitenance of Things (MoT)"
+    "Maitenance of Things (MoT)",
+    "Personal Organization"
   ]
 technical_background:
   [
