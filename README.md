@@ -11,7 +11,7 @@ Skill: Full Stack Web Development
 education:
   [
     "Completed Fullstack Academy Software Immersive program",
-    "Bachelor's in Marketing",
+    "BA in Marketing",
   ]
 
 fields_of_interests:
