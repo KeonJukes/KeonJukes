@@ -19,7 +19,7 @@ fields_of_interests:
     "Web Development",
     "UI/UX Design",
     "Internet of Things (IoT)",
-    "Live Streaming"
+    "Streaming"
   ]
 technical_background:
   [
