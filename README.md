@@ -11,21 +11,22 @@ Skill: Full Stack Web Development
 education:
   [
     "Completed Fullstack Academy Software Immersive program",
-    "BA in Marketing",
+    "B.S. in Business Marketing",
   ]
 
 fields_of_interests:
   [
+    "Design Engineering",
     "Web Development",
     "UI/UX Design",
     "Internet of Things (IoT)",
-    "Live Streaming",
-    "Voice technology"
+    "Voice technology",
   ]
 technical_background:
   [
     "Software Engineer",
-    "Frontend Developer"
+    "Design Engineer",
+    "Sales Engineer"
   ]
   
 ```
