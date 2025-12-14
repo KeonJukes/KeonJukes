@@ -25,7 +25,7 @@ fields_of_interests:
 technical_background:
   [
     "Software Engineer",
-    "Design Engineer",
+    "Designer",
     "Sales Engineer"
   ]
   
