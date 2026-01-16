@@ -1,4 +1,5 @@
-![Header](<img width="3400" height="920" alt="image" src="https://github.com/user-attachments/assets/ad6d26ea-6f43-41be-a58e-64e439e0c08e" />)
+![Header](<img width="3400" height="920" alt="image" src="https://github.com/user-attachments/assets/4179f99c-f3a3-426d-9caa-9ef3ec01e2b2" />
+)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=39FF14&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
 
