@@ -7,7 +7,7 @@ My name is Keon and I completed Fullstack Academy's software immersive program w
 ```yaml
 name: Keon Jukes
 located_in: Bay Area
-Skill: Software Engineer
+skill: Software Engineer
 education:
   [
     "Completed Fullstack Academy Software Immersive program",
