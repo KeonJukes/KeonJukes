@@ -30,7 +30,7 @@ technical_background:
   ]
   
 ```
-
+ --->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=39FF14&width=435&lines=Some+tools+I+use%3A)](https://git.io/typing-svg)
 <!--
@@ -45,7 +45,7 @@ technical_background:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialui" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/> 
 </p> 
--->
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -129,8 +129,8 @@ technical_background:
       Jest
     </td>
   </tr>
-</table> --->
-
+</table>
+-->
 <!-- ![Footer](github-readme-profile-animation.gif) --->
 <!---
 KeonJukes/KeonJukes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
